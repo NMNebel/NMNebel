@@ -11,11 +11,11 @@
 ```python
 nico_nebel = {
     "pronouns": ["He", "Him"],
-	"code" : ["Fortran", "Cobol", "Turbo Pascal", "SQL", "PLSQL", "Python"],
+    "code" : ["Fortran", "Cobol", "Turbo Pascal", "SQL", "PLSQL", "Python"],
     "frontend" : ["Oracle Forms", "Oracle Reports"],
     "usage" : ["Markdown"],
     "tools" : ["InkScape", "Typora", "VSCode", "Notepad++", "LibreOffice"],
- 	"databases" : ["Oracle", "MySql", "Chroma"],
+    "databases" : ["Oracle", "MySql", "Chroma"],
     "fun_fact" : "wears T-shirts that trigger nice conversations."
 }
 ```
