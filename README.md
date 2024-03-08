@@ -1,18 +1,21 @@
-### Hello world 👋 
+### Nico Nebel 🌁
 
-I'm Nico Nebel, a Software engineer and nerd ...
+- *Software Engineer und Data Scientist bei [Bosch](https://www.bosch.de/unternehmen/bosch-in-deutschland/reutlingen/)*
 
-<!--
-**NMNebel/NMNebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- *Mathematiker*
 
-Here are some ideas to get you started:
+- *Nerd* 😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Ein paar Details über mich
+
+```python
+nico_nebel = {
+    "pronouns": ["He", "Him"],
+	"code" : ["Fortran", "Cobol", "Turbo Pascal", "SQL", "PLSQL", "Python"],
+    "frontend" : ["Oracle Forms", "Oracle Reports"],
+    "usage" : ["Markdown"],
+    "tools" : ["InkScape", "Typora", "VSCode", "Notepad++", "LibreOffice"],
+ 	"databases" : ["Oracle", "MySql", "Chroma"],
+    "fun_fact" : "wears T-shirts that trigger nice conversations."
+}
+```
