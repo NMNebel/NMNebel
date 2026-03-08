@@ -1,6 +1,6 @@
-## Nico Nebel 🌁
+## Nico Nebel
 
-- *Software Engineer und Data Scientist bei [Bosch](https://www.bosch.de/unternehmen/bosch-in-deutschland/reutlingen/)*
+- *Software Engineer und Data Scientist bei [Bosch in Reutlingen](https://www.bosch.de/unternehmen/bosch-in-deutschland/reutlingen/)*
 - *Mathematiker*
 - *Nerd* 😉
 
